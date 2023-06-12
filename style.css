@@ -1,0 +1,20 @@
+{
+    margin: 0;
+    padding: 0; 
+}
+
+header{ background-color: rgb(8, 1, 1);
+    
+display: flex;
+color: rgb(182, 157, 15);
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 24px 0;
+
+}
+.cabeçalho-item{ 
+    display: inline-block;
+    margin: 0 36px;
+    color: rgb(221, 207, 207);
+}
